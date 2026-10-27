@@ -1,4 +1,4 @@
-package com.app.Patrones.Observer.Ejercicio2;
+package Patrones.Observer.Ejercicio2;
 
 public class Main {
 

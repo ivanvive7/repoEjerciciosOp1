@@ -1,4 +1,4 @@
-package com.app.Patrones.Observer.Ejercicio2;
+package Patrones.Observer.Ejercicio2;
 
 import java.util.ArrayList;
 import java.util.List;

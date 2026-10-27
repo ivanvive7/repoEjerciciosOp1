@@ -1,4 +1,4 @@
-package com.app.Patrones.Observer.Ejercicio1;
+package Patrones.Observer.Ejercicio1;
 
 public class Pantalla implements Observador {
 
